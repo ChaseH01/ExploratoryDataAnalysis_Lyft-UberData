@@ -7,3 +7,5 @@ View the project by navigating to MainFile.ipynb
 
 Data Set:
 https://www.kaggle.com/brllrb/uber-and-lyft-dataset-boston-ma
+
+📓 [View the notebook](./MainFile.ipynb)

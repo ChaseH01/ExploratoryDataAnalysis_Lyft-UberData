@@ -4,6 +4,8 @@
 
 This project presents an exploratory data analysis (EDA) of a dataset containing Uber and Lyft ride information and pricing in Boston, MA. The goal was to uncover insights into ride characteristics, pricing trends, and the influence of factors like time, distance, and weather. Through this analysis, we aimed to understand patterns within the rideshare data, demonstrating a practical approach to extracting meaningful information from real-world datasets. Note: This Overview section was created with AI.
 
+- 📓 **Easy Access to Notebook**: [Open analysis.ipynb](./analysis.ipynb)
+
 ## Contribution
 
 This version represents my personal adaptation of a project originally developed in collaboration with Matteo Dall'Olmo. It features my own refinements and revised documentation for clarity and portfolio purposes.
